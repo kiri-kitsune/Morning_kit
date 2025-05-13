@@ -1,2 +1,2 @@
 # Morning_kit
-Simple morning routine generator made with Payton
+Simple morning routine generator made with Python
