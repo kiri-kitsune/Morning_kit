@@ -21,8 +21,8 @@ Here’s your Morning Protocol:
 1. Instal Python 3.10+
 2. Clone repository:
    ```bash
-   git clone https://github.com/kiri-kitsune/morning-kit.git
-   cd morning-kit
+   git clone https://github.com/kiri-kitsune/morning_kit.git
+   cd morning_kit
    python main.py
 
 💡 Roadmap
